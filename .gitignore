@@ -2,4 +2,5 @@
 .meteor/meteorite
 
 .build*
+.versions
 
