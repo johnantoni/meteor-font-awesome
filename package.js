@@ -1,7 +1,7 @@
 Package.describe({
   name: 'johnantoni:meteor-font-awesome',
   summary: 'Font-Awesome ~ The iconic font and CSS toolkit',
-  version: '4.2.0',
+  version: '4.2.1',
   git: 'https://github.com/johnantoni/meteor-font-awesome.git'
 });
 
